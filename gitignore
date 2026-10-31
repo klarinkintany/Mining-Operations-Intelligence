@@ -1,0 +1,110 @@
+# ==============================================================
+# .gitignore - Mining Operations Intelligence
+# Python + Jupyter/Colab + Power BI (PBIP) + SQL
+# ==============================================================
+
+# --------------------------------------------------------------
+# Power BI (PBIP)
+# --------------------------------------------------------------
+# Cache data model (besar, dibuat ulang otomatis saat refresh)
+**/.pbi/cache.abf
+# Pengaturan lokal per komputer (path, preferensi pribadi)
+**/.pbi/localSettings.json
+# File sementara / backup Power BI
+*.pbix.bak
+*.pbi.tmp
+.pbi/*.tmp
+
+# Opsional: abaikan file .pbix jika ukurannya besar
+# (proyek sudah tersedia dalam format .pbip yang ramah Git)
+# *.pbix
+
+# --------------------------------------------------------------
+# Python
+# --------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# --------------------------------------------------------------
+# Jupyter / Google Colab
+# --------------------------------------------------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.virtual_documents/
+
+# --------------------------------------------------------------
+# Database lokal & hasil sementara
+# --------------------------------------------------------------
+# Hapus tanda # di bawah jika TIDAK ingin mengunggah database SQLite
+# (ukuran besar). Jika diabaikan, jelaskan sumbernya di README.
+# *.db
+# *.sqlite
+# *.sqlite3
+
+# File journal SQLite (sementara)
+*.db-journal
+*.sqlite-journal
+*.db-wal
+*.db-shm
+
+# Dump / backup SQL sementara
+*.bak
+*.dump
+
+# --------------------------------------------------------------
+# Kredensial & konfigurasi pribadi (JANGAN PERNAH di-commit)
+# --------------------------------------------------------------
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+secrets.json
+config.local.*
+
+# --------------------------------------------------------------
+# File sistem operasi
+# --------------------------------------------------------------
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# --------------------------------------------------------------
+# Editor / IDE
+# --------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --------------------------------------------------------------
+# File sementara & log
+# --------------------------------------------------------------
+*.log
+*.tmp
+*.temp
+~$*
