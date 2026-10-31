@@ -313,7 +313,7 @@ Klarin Kintany
 
 Project Mining Operations Intelligence
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white](https://www.linkedin.com/in/klarin-kintany/))]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klarin-kintany/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/klarinkintany)
 
 ---
