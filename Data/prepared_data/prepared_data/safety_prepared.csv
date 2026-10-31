@@ -1,0 +1,361 @@
+incident_id,date,site_id,site_name,incident_type,severity,description,days_lost,root_cause,investigation_status,workforce_size,month,month_name,quarter,is_lost_time_injury,is_medical_treatment_injury,is_open_investigation,incident_category
+INC-00001,2025-02-27,IRON001,Iron Ridge Mine,Lost Time Injury (LTI),High,Fall from height,28,Procedural Gap,Closed,850,2,February,1,1,0,0,Injury
+INC-00002,2025-11-24,IRON001,Iron Ridge Mine,Lost Time Injury (LTI),High,Crush injury,9,Human Error,Closed,850,11,November,4,1,0,0,Injury
+INC-00003,2025-01-16,IRON001,Iron Ridge Mine,Medical Treatment Injury (MTI),Medium,Laceration,0,Training Gap,Closed,850,1,January,1,0,1,0,Injury
+INC-00004,2025-01-17,IRON001,Iron Ridge Mine,Medical Treatment Injury (MTI),Medium,Contusion,0,Equipment Failure,Under Investigation,850,1,January,1,0,1,1,Injury
+INC-00005,2025-02-17,IRON001,Iron Ridge Mine,Medical Treatment Injury (MTI),Medium,Sprain,0,Human Error,Closed,850,2,February,1,0,1,0,Injury
+INC-00006,2025-04-22,IRON001,Iron Ridge Mine,Medical Treatment Injury (MTI),Medium,Contusion,0,Procedural Gap,Closed,850,4,April,2,0,1,0,Injury
+INC-00007,2025-04-30,IRON001,Iron Ridge Mine,Medical Treatment Injury (MTI),Medium,Minor burn,0,Equipment Failure,Closed,850,4,April,2,0,1,0,Injury
+INC-00008,2025-08-05,IRON001,Iron Ridge Mine,Medical Treatment Injury (MTI),Medium,Laceration,0,Human Error,Under Investigation,850,8,August,3,0,1,1,Injury
+INC-00009,2025-09-16,IRON001,Iron Ridge Mine,Medical Treatment Injury (MTI),Medium,Laceration,0,Procedural Gap,Closed,850,9,September,3,0,1,0,Injury
+INC-00010,2025-10-30,IRON001,Iron Ridge Mine,Medical Treatment Injury (MTI),Medium,Sprain,0,Human Error,Under Investigation,850,10,October,4,0,1,1,Injury
+INC-00011,2025-01-24,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Splinter,0,Environmental Factor,Closed,850,1,January,1,0,0,0,Injury
+INC-00012,2025-02-05,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Scrape,0,Procedural Gap,Closed,850,2,February,1,0,0,0,Injury
+INC-00013,2025-02-10,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Scrape,0,Procedural Gap,Closed,850,2,February,1,0,0,0,Injury
+INC-00014,2025-02-21,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Scrape,0,Training Gap,Closed,850,2,February,1,0,0,0,Injury
+INC-00015,2025-03-05,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Scrape,0,Environmental Factor,Under Investigation,850,3,March,1,0,0,1,Injury
+INC-00016,2025-04-09,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Splinter,0,Training Gap,Closed,850,4,April,2,0,0,0,Injury
+INC-00017,2025-04-27,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Splinter,0,Human Error,Closed,850,4,April,2,0,0,0,Injury
+INC-00018,2025-04-30,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Minor cut,0,Procedural Gap,Under Investigation,850,4,April,2,0,0,1,Injury
+INC-00019,2025-05-29,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Splinter,0,Human Error,Closed,850,5,May,2,0,0,0,Injury
+INC-00020,2025-05-31,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Splinter,0,Equipment Failure,Under Investigation,850,5,May,2,0,0,1,Injury
+INC-00021,2025-07-05,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Minor bruise,0,Environmental Factor,Closed,850,7,July,3,0,0,0,Injury
+INC-00022,2025-07-13,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Splinter,0,Equipment Failure,Closed,850,7,July,3,0,0,0,Injury
+INC-00023,2025-07-14,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Splinter,0,Training Gap,Under Investigation,850,7,July,3,0,0,1,Injury
+INC-00024,2025-10-02,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Minor bruise,0,Procedural Gap,Closed,850,10,October,4,0,0,0,Injury
+INC-00025,2025-10-10,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Scrape,0,Training Gap,Under Investigation,850,10,October,4,0,0,1,Injury
+INC-00026,2025-10-23,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Minor cut,0,Human Error,Closed,850,10,October,4,0,0,0,Injury
+INC-00027,2025-11-13,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Scrape,0,Equipment Failure,Under Investigation,850,11,November,4,0,0,1,Injury
+INC-00028,2025-11-18,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Minor cut,0,Environmental Factor,Under Investigation,850,11,November,4,0,0,1,Injury
+INC-00029,2025-12-05,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Minor bruise,0,Training Gap,Closed,850,12,December,4,0,0,0,Injury
+INC-00030,2025-12-27,IRON001,Iron Ridge Mine,First Aid Injury (FAI),Low,Minor cut,0,Human Error,Closed,850,12,December,4,0,0,0,Injury
+INC-00031,2025-01-02,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Equipment Failure,Closed,850,1,January,1,0,0,0,Near miss or potential incident
+INC-00032,2025-02-24,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Training Gap,Closed,850,2,February,1,0,0,0,Near miss or potential incident
+INC-00033,2025-02-27,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Environmental Factor,Closed,850,2,February,1,0,0,0,Near miss or potential incident
+INC-00034,2025-03-22,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Procedural Gap,Closed,850,3,March,1,0,0,0,Near miss or potential incident
+INC-00035,2025-04-02,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Human Error,Closed,850,4,April,2,0,0,0,Near miss or potential incident
+INC-00036,2025-05-15,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Human Error,Under Investigation,850,5,May,2,0,0,1,Near miss or potential incident
+INC-00037,2025-05-31,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Training Gap,Closed,850,5,May,2,0,0,0,Near miss or potential incident
+INC-00038,2025-06-02,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Environmental Factor,Closed,850,6,June,2,0,0,0,Near miss or potential incident
+INC-00039,2025-06-24,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Training Gap,Under Investigation,850,6,June,2,0,0,1,Near miss or potential incident
+INC-00040,2025-08-11,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Training Gap,Closed,850,8,August,3,0,0,0,Near miss or potential incident
+INC-00041,2025-08-21,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Environmental Factor,Closed,850,8,August,3,0,0,0,Near miss or potential incident
+INC-00042,2025-09-14,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Uncontrolled energy release,0,Training Gap,Under Investigation,850,9,September,3,0,0,1,Near miss or potential incident
+INC-00043,2025-09-17,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Equipment Failure,Closed,850,9,September,3,0,0,0,Near miss or potential incident
+INC-00044,2025-11-17,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Procedural Gap,Closed,850,11,November,4,0,0,0,Near miss or potential incident
+INC-00045,2025-11-25,IRON001,Iron Ridge Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Training Gap,Closed,850,11,November,4,0,0,0,Near miss or potential incident
+INC-00046,2025-01-04,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Equipment Failure,Closed,850,1,January,1,0,0,0,Near miss or potential incident
+INC-00047,2025-01-17,IRON001,Iron Ridge Mine,Near Miss,Low,Equipment proximity,0,Equipment Failure,Under Investigation,850,1,January,1,0,0,1,Near miss or potential incident
+INC-00048,2025-01-28,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Procedural Gap,Under Investigation,850,1,January,1,0,0,1,Near miss or potential incident
+INC-00049,2025-01-31,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Human Error,Under Investigation,850,1,January,1,0,0,1,Near miss or potential incident
+INC-00050,2025-02-01,IRON001,Iron Ridge Mine,Near Miss,Low,Pedestrian near vehicle,0,Human Error,Closed,850,2,February,1,0,0,0,Near miss or potential incident
+INC-00051,2025-02-04,IRON001,Iron Ridge Mine,Near Miss,Low,Pedestrian near vehicle,0,Equipment Failure,Closed,850,2,February,1,0,0,0,Near miss or potential incident
+INC-00052,2025-02-06,IRON001,Iron Ridge Mine,Near Miss,Low,Equipment proximity,0,Environmental Factor,Under Investigation,850,2,February,1,0,0,1,Near miss or potential incident
+INC-00053,2025-02-18,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Environmental Factor,Closed,850,2,February,1,0,0,0,Near miss or potential incident
+INC-00054,2025-02-19,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Environmental Factor,Closed,850,2,February,1,0,0,0,Near miss or potential incident
+INC-00055,2025-02-20,IRON001,Iron Ridge Mine,Near Miss,Low,Equipment proximity,0,Procedural Gap,Under Investigation,850,2,February,1,0,0,1,Near miss or potential incident
+INC-00056,2025-02-25,IRON001,Iron Ridge Mine,Near Miss,Low,Slip/trip hazard,0,Environmental Factor,Under Investigation,850,2,February,1,0,0,1,Near miss or potential incident
+INC-00057,2025-03-09,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Equipment Failure,Closed,850,3,March,1,0,0,0,Near miss or potential incident
+INC-00058,2025-04-08,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Human Error,Closed,850,4,April,2,0,0,0,Near miss or potential incident
+INC-00059,2025-04-20,IRON001,Iron Ridge Mine,Near Miss,Low,Slip/trip hazard,0,Human Error,Closed,850,4,April,2,0,0,0,Near miss or potential incident
+INC-00060,2025-04-28,IRON001,Iron Ridge Mine,Near Miss,Low,Equipment proximity,0,Training Gap,Closed,850,4,April,2,0,0,0,Near miss or potential incident
+INC-00061,2025-05-02,IRON001,Iron Ridge Mine,Near Miss,Low,Pedestrian near vehicle,0,Training Gap,Closed,850,5,May,2,0,0,0,Near miss or potential incident
+INC-00062,2025-05-05,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Human Error,Closed,850,5,May,2,0,0,0,Near miss or potential incident
+INC-00063,2025-05-23,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Environmental Factor,Closed,850,5,May,2,0,0,0,Near miss or potential incident
+INC-00064,2025-06-19,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Training Gap,Closed,850,6,June,2,0,0,0,Near miss or potential incident
+INC-00065,2025-06-23,IRON001,Iron Ridge Mine,Near Miss,Low,Pedestrian near vehicle,0,Environmental Factor,Closed,850,6,June,2,0,0,0,Near miss or potential incident
+INC-00066,2025-07-01,IRON001,Iron Ridge Mine,Near Miss,Low,Slip/trip hazard,0,Equipment Failure,Closed,850,7,July,3,0,0,0,Near miss or potential incident
+INC-00067,2025-07-26,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Procedural Gap,Under Investigation,850,7,July,3,0,0,1,Near miss or potential incident
+INC-00068,2025-07-28,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Procedural Gap,Under Investigation,850,7,July,3,0,0,1,Near miss or potential incident
+INC-00069,2025-07-30,IRON001,Iron Ridge Mine,Near Miss,Low,Slip/trip hazard,0,Human Error,Closed,850,7,July,3,0,0,0,Near miss or potential incident
+INC-00070,2025-08-05,IRON001,Iron Ridge Mine,Near Miss,Low,Equipment proximity,0,Training Gap,Closed,850,8,August,3,0,0,0,Near miss or potential incident
+INC-00071,2025-08-09,IRON001,Iron Ridge Mine,Near Miss,Low,Pedestrian near vehicle,0,Training Gap,Closed,850,8,August,3,0,0,0,Near miss or potential incident
+INC-00072,2025-08-28,IRON001,Iron Ridge Mine,Near Miss,Low,Slip/trip hazard,0,Equipment Failure,Closed,850,8,August,3,0,0,0,Near miss or potential incident
+INC-00073,2025-08-31,IRON001,Iron Ridge Mine,Near Miss,Low,Pedestrian near vehicle,0,Equipment Failure,Closed,850,8,August,3,0,0,0,Near miss or potential incident
+INC-00074,2025-09-06,IRON001,Iron Ridge Mine,Near Miss,Low,Slip/trip hazard,0,Equipment Failure,Under Investigation,850,9,September,3,0,0,1,Near miss or potential incident
+INC-00075,2025-09-21,IRON001,Iron Ridge Mine,Near Miss,Low,Slip/trip hazard,0,Training Gap,Closed,850,9,September,3,0,0,0,Near miss or potential incident
+INC-00076,2025-10-04,IRON001,Iron Ridge Mine,Near Miss,Low,Slip/trip hazard,0,Human Error,Closed,850,10,October,4,0,0,0,Near miss or potential incident
+INC-00077,2025-10-20,IRON001,Iron Ridge Mine,Near Miss,Low,Slip/trip hazard,0,Human Error,Closed,850,10,October,4,0,0,0,Near miss or potential incident
+INC-00078,2025-10-23,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Procedural Gap,Closed,850,10,October,4,0,0,0,Near miss or potential incident
+INC-00079,2025-11-20,IRON001,Iron Ridge Mine,Near Miss,Low,Falling object,0,Procedural Gap,Closed,850,11,November,4,0,0,0,Near miss or potential incident
+INC-00080,2025-11-27,IRON001,Iron Ridge Mine,Near Miss,Low,Slip/trip hazard,0,Training Gap,Under Investigation,850,11,November,4,0,0,1,Near miss or potential incident
+INC-00081,2025-12-01,IRON001,Iron Ridge Mine,Near Miss,Low,Slip/trip hazard,0,Human Error,Closed,850,12,December,4,0,0,0,Near miss or potential incident
+INC-00082,2025-12-04,IRON001,Iron Ridge Mine,Near Miss,Low,Equipment proximity,0,Procedural Gap,Closed,850,12,December,4,0,0,0,Near miss or potential incident
+INC-00083,2025-12-09,IRON001,Iron Ridge Mine,Near Miss,Low,Pedestrian near vehicle,0,Procedural Gap,Closed,850,12,December,4,0,0,0,Near miss or potential incident
+INC-00084,2025-12-11,IRON001,Iron Ridge Mine,Near Miss,Low,Slip/trip hazard,0,Equipment Failure,Under Investigation,850,12,December,4,0,0,1,Near miss or potential incident
+INC-00085,2025-12-29,IRON001,Iron Ridge Mine,Near Miss,Low,Equipment proximity,0,Training Gap,Closed,850,12,December,4,0,0,0,Near miss or potential incident
+INC-00086,2025-02-08,IRON001,Iron Ridge Mine,Environmental Incident,Medium,Minor fuel spill,0,Procedural Gap,Closed,850,2,February,1,0,0,0,Environmental
+INC-00087,2025-02-27,IRON001,Iron Ridge Mine,Environmental Incident,Medium,Waste handling,0,Equipment Failure,Closed,850,2,February,1,0,0,0,Environmental
+INC-00088,2025-03-18,IRON001,Iron Ridge Mine,Environmental Incident,Medium,Water quality issue,0,Procedural Gap,Closed,850,3,March,1,0,0,0,Environmental
+INC-00089,2025-10-07,IRON001,Iron Ridge Mine,Environmental Incident,Medium,Water quality issue,0,Equipment Failure,Closed,850,10,October,4,0,0,0,Environmental
+INC-00090,2025-12-20,IRON001,Iron Ridge Mine,Environmental Incident,Medium,Minor fuel spill,0,Procedural Gap,Under Investigation,850,12,December,4,0,0,1,Environmental
+INC-00091,2025-03-21,GOLD001,Golden Valley Mine,Lost Time Injury (LTI),High,Crush injury,10,Equipment Failure,Under Investigation,1200,3,March,1,1,0,1,Injury
+INC-00092,2025-11-14,GOLD001,Golden Valley Mine,Lost Time Injury (LTI),High,Fall from height,10,Procedural Gap,Under Investigation,1200,11,November,4,1,0,1,Injury
+INC-00093,2025-01-20,GOLD001,Golden Valley Mine,Medical Treatment Injury (MTI),Medium,Contusion,0,Equipment Failure,Closed,1200,1,January,1,0,1,0,Injury
+INC-00094,2025-02-25,GOLD001,Golden Valley Mine,Medical Treatment Injury (MTI),Medium,Contusion,0,Procedural Gap,Closed,1200,2,February,1,0,1,0,Injury
+INC-00095,2025-03-23,GOLD001,Golden Valley Mine,Medical Treatment Injury (MTI),Medium,Minor burn,0,Equipment Failure,Closed,1200,3,March,1,0,1,0,Injury
+INC-00096,2025-05-08,GOLD001,Golden Valley Mine,Medical Treatment Injury (MTI),Medium,Minor burn,0,Environmental Factor,Closed,1200,5,May,2,0,1,0,Injury
+INC-00097,2025-05-17,GOLD001,Golden Valley Mine,Medical Treatment Injury (MTI),Medium,Sprain,0,Human Error,Closed,1200,5,May,2,0,1,0,Injury
+INC-00098,2025-07-15,GOLD001,Golden Valley Mine,Medical Treatment Injury (MTI),Medium,Sprain,0,Training Gap,Under Investigation,1200,7,July,3,0,1,1,Injury
+INC-00099,2025-12-09,GOLD001,Golden Valley Mine,Medical Treatment Injury (MTI),Medium,Sprain,0,Human Error,Closed,1200,12,December,4,0,1,0,Injury
+INC-00100,2025-12-26,GOLD001,Golden Valley Mine,Medical Treatment Injury (MTI),Medium,Sprain,0,Equipment Failure,Closed,1200,12,December,4,0,1,0,Injury
+INC-00101,2025-01-01,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Scrape,0,Procedural Gap,Under Investigation,1200,1,January,1,0,0,1,Injury
+INC-00102,2025-01-20,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Minor cut,0,Procedural Gap,Closed,1200,1,January,1,0,0,0,Injury
+INC-00103,2025-01-23,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Minor cut,0,Procedural Gap,Closed,1200,1,January,1,0,0,0,Injury
+INC-00104,2025-02-25,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Minor bruise,0,Procedural Gap,Under Investigation,1200,2,February,1,0,0,1,Injury
+INC-00105,2025-03-01,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Splinter,0,Training Gap,Closed,1200,3,March,1,0,0,0,Injury
+INC-00106,2025-04-08,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Scrape,0,Environmental Factor,Under Investigation,1200,4,April,2,0,0,1,Injury
+INC-00107,2025-05-11,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Scrape,0,Training Gap,Closed,1200,5,May,2,0,0,0,Injury
+INC-00108,2025-06-10,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Minor bruise,0,Training Gap,Closed,1200,6,June,2,0,0,0,Injury
+INC-00109,2025-06-26,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Splinter,0,Procedural Gap,Closed,1200,6,June,2,0,0,0,Injury
+INC-00110,2025-07-17,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Minor bruise,0,Training Gap,Closed,1200,7,July,3,0,0,0,Injury
+INC-00111,2025-08-11,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Minor bruise,0,Environmental Factor,Under Investigation,1200,8,August,3,0,0,1,Injury
+INC-00112,2025-08-12,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Scrape,0,Training Gap,Under Investigation,1200,8,August,3,0,0,1,Injury
+INC-00113,2025-09-19,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Scrape,0,Human Error,Closed,1200,9,September,3,0,0,0,Injury
+INC-00114,2025-09-24,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Splinter,0,Human Error,Closed,1200,9,September,3,0,0,0,Injury
+INC-00115,2025-10-03,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Splinter,0,Equipment Failure,Closed,1200,10,October,4,0,0,0,Injury
+INC-00116,2025-10-23,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Scrape,0,Human Error,Closed,1200,10,October,4,0,0,0,Injury
+INC-00117,2025-11-02,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Scrape,0,Environmental Factor,Closed,1200,11,November,4,0,0,0,Injury
+INC-00118,2025-11-07,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Minor bruise,0,Environmental Factor,Closed,1200,11,November,4,0,0,0,Injury
+INC-00119,2025-12-18,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Minor bruise,0,Environmental Factor,Under Investigation,1200,12,December,4,0,0,1,Injury
+INC-00120,2025-12-29,GOLD001,Golden Valley Mine,First Aid Injury (FAI),Low,Scrape,0,Equipment Failure,Closed,1200,12,December,4,0,0,0,Injury
+INC-00121,2025-01-26,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Environmental Factor,Under Investigation,1200,1,January,1,0,0,1,Near miss or potential incident
+INC-00122,2025-02-24,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Uncontrolled energy release,0,Equipment Failure,Under Investigation,1200,2,February,1,0,0,1,Near miss or potential incident
+INC-00123,2025-03-04,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Uncontrolled energy release,0,Procedural Gap,Closed,1200,3,March,1,0,0,0,Near miss or potential incident
+INC-00124,2025-03-10,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Training Gap,Under Investigation,1200,3,March,1,0,0,1,Near miss or potential incident
+INC-00125,2025-04-01,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Procedural Gap,Under Investigation,1200,4,April,2,0,0,1,Near miss or potential incident
+INC-00126,2025-04-23,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Procedural Gap,Closed,1200,4,April,2,0,0,0,Near miss or potential incident
+INC-00127,2025-05-08,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Procedural Gap,Closed,1200,5,May,2,0,0,0,Near miss or potential incident
+INC-00128,2025-08-06,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Equipment Failure,Closed,1200,8,August,3,0,0,0,Near miss or potential incident
+INC-00129,2025-08-22,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Environmental Factor,Closed,1200,8,August,3,0,0,0,Near miss or potential incident
+INC-00130,2025-08-26,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Human Error,Under Investigation,1200,8,August,3,0,0,1,Near miss or potential incident
+INC-00131,2025-09-23,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Uncontrolled energy release,0,Procedural Gap,Under Investigation,1200,9,September,3,0,0,1,Near miss or potential incident
+INC-00132,2025-09-29,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Uncontrolled energy release,0,Human Error,Closed,1200,9,September,3,0,0,0,Near miss or potential incident
+INC-00133,2025-10-13,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Uncontrolled energy release,0,Environmental Factor,Closed,1200,10,October,4,0,0,0,Near miss or potential incident
+INC-00134,2025-12-08,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Uncontrolled energy release,0,Environmental Factor,Closed,1200,12,December,4,0,0,0,Near miss or potential incident
+INC-00135,2025-12-23,GOLD001,Golden Valley Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Procedural Gap,Under Investigation,1200,12,December,4,0,0,1,Near miss or potential incident
+INC-00136,2025-01-14,GOLD001,Golden Valley Mine,Near Miss,Low,Pedestrian near vehicle,0,Environmental Factor,Closed,1200,1,January,1,0,0,0,Near miss or potential incident
+INC-00137,2025-01-15,GOLD001,Golden Valley Mine,Near Miss,Low,Pedestrian near vehicle,0,Procedural Gap,Closed,1200,1,January,1,0,0,0,Near miss or potential incident
+INC-00138,2025-01-26,GOLD001,Golden Valley Mine,Near Miss,Low,Pedestrian near vehicle,0,Human Error,Closed,1200,1,January,1,0,0,0,Near miss or potential incident
+INC-00139,2025-02-12,GOLD001,Golden Valley Mine,Near Miss,Low,Falling object,0,Equipment Failure,Closed,1200,2,February,1,0,0,0,Near miss or potential incident
+INC-00140,2025-03-07,GOLD001,Golden Valley Mine,Near Miss,Low,Falling object,0,Equipment Failure,Closed,1200,3,March,1,0,0,0,Near miss or potential incident
+INC-00141,2025-03-11,GOLD001,Golden Valley Mine,Near Miss,Low,Equipment proximity,0,Human Error,Closed,1200,3,March,1,0,0,0,Near miss or potential incident
+INC-00142,2025-03-26,GOLD001,Golden Valley Mine,Near Miss,Low,Equipment proximity,0,Procedural Gap,Closed,1200,3,March,1,0,0,0,Near miss or potential incident
+INC-00143,2025-04-04,GOLD001,Golden Valley Mine,Near Miss,Low,Falling object,0,Training Gap,Closed,1200,4,April,2,0,0,0,Near miss or potential incident
+INC-00144,2025-04-19,GOLD001,Golden Valley Mine,Near Miss,Low,Falling object,0,Procedural Gap,Closed,1200,4,April,2,0,0,0,Near miss or potential incident
+INC-00145,2025-04-23,GOLD001,Golden Valley Mine,Near Miss,Low,Pedestrian near vehicle,0,Procedural Gap,Under Investigation,1200,4,April,2,0,0,1,Near miss or potential incident
+INC-00146,2025-05-10,GOLD001,Golden Valley Mine,Near Miss,Low,Equipment proximity,0,Equipment Failure,Closed,1200,5,May,2,0,0,0,Near miss or potential incident
+INC-00147,2025-05-14,GOLD001,Golden Valley Mine,Near Miss,Low,Falling object,0,Human Error,Closed,1200,5,May,2,0,0,0,Near miss or potential incident
+INC-00148,2025-05-20,GOLD001,Golden Valley Mine,Near Miss,Low,Pedestrian near vehicle,0,Training Gap,Closed,1200,5,May,2,0,0,0,Near miss or potential incident
+INC-00149,2025-05-23,GOLD001,Golden Valley Mine,Near Miss,Low,Slip/trip hazard,0,Training Gap,Under Investigation,1200,5,May,2,0,0,1,Near miss or potential incident
+INC-00150,2025-06-17,GOLD001,Golden Valley Mine,Near Miss,Low,Slip/trip hazard,0,Human Error,Closed,1200,6,June,2,0,0,0,Near miss or potential incident
+INC-00151,2025-06-22,GOLD001,Golden Valley Mine,Near Miss,Low,Pedestrian near vehicle,0,Environmental Factor,Under Investigation,1200,6,June,2,0,0,1,Near miss or potential incident
+INC-00152,2025-07-14,GOLD001,Golden Valley Mine,Near Miss,Low,Pedestrian near vehicle,0,Environmental Factor,Closed,1200,7,July,3,0,0,0,Near miss or potential incident
+INC-00153,2025-07-19,GOLD001,Golden Valley Mine,Near Miss,Low,Equipment proximity,0,Equipment Failure,Under Investigation,1200,7,July,3,0,0,1,Near miss or potential incident
+INC-00154,2025-07-21,GOLD001,Golden Valley Mine,Near Miss,Low,Falling object,0,Training Gap,Closed,1200,7,July,3,0,0,0,Near miss or potential incident
+INC-00155,2025-07-27,GOLD001,Golden Valley Mine,Near Miss,Low,Equipment proximity,0,Environmental Factor,Under Investigation,1200,7,July,3,0,0,1,Near miss or potential incident
+INC-00156,2025-08-03,GOLD001,Golden Valley Mine,Near Miss,Low,Slip/trip hazard,0,Procedural Gap,Closed,1200,8,August,3,0,0,0,Near miss or potential incident
+INC-00157,2025-08-04,GOLD001,Golden Valley Mine,Near Miss,Low,Pedestrian near vehicle,0,Procedural Gap,Under Investigation,1200,8,August,3,0,0,1,Near miss or potential incident
+INC-00158,2025-08-08,GOLD001,Golden Valley Mine,Near Miss,Low,Falling object,0,Environmental Factor,Under Investigation,1200,8,August,3,0,0,1,Near miss or potential incident
+INC-00159,2025-08-12,GOLD001,Golden Valley Mine,Near Miss,Low,Slip/trip hazard,0,Human Error,Under Investigation,1200,8,August,3,0,0,1,Near miss or potential incident
+INC-00160,2025-08-21,GOLD001,Golden Valley Mine,Near Miss,Low,Slip/trip hazard,0,Equipment Failure,Under Investigation,1200,8,August,3,0,0,1,Near miss or potential incident
+INC-00161,2025-08-25,GOLD001,Golden Valley Mine,Near Miss,Low,Falling object,0,Procedural Gap,Closed,1200,8,August,3,0,0,0,Near miss or potential incident
+INC-00162,2025-08-28,GOLD001,Golden Valley Mine,Near Miss,Low,Slip/trip hazard,0,Procedural Gap,Closed,1200,8,August,3,0,0,0,Near miss or potential incident
+INC-00163,2025-09-06,GOLD001,Golden Valley Mine,Near Miss,Low,Pedestrian near vehicle,0,Training Gap,Closed,1200,9,September,3,0,0,0,Near miss or potential incident
+INC-00164,2025-09-07,GOLD001,Golden Valley Mine,Near Miss,Low,Pedestrian near vehicle,0,Equipment Failure,Under Investigation,1200,9,September,3,0,0,1,Near miss or potential incident
+INC-00165,2025-10-01,GOLD001,Golden Valley Mine,Near Miss,Low,Equipment proximity,0,Training Gap,Closed,1200,10,October,4,0,0,0,Near miss or potential incident
+INC-00166,2025-10-03,GOLD001,Golden Valley Mine,Near Miss,Low,Equipment proximity,0,Environmental Factor,Under Investigation,1200,10,October,4,0,0,1,Near miss or potential incident
+INC-00167,2025-10-07,GOLD001,Golden Valley Mine,Near Miss,Low,Pedestrian near vehicle,0,Human Error,Closed,1200,10,October,4,0,0,0,Near miss or potential incident
+INC-00168,2025-10-16,GOLD001,Golden Valley Mine,Near Miss,Low,Falling object,0,Environmental Factor,Closed,1200,10,October,4,0,0,0,Near miss or potential incident
+INC-00169,2025-10-31,GOLD001,Golden Valley Mine,Near Miss,Low,Slip/trip hazard,0,Training Gap,Closed,1200,10,October,4,0,0,0,Near miss or potential incident
+INC-00170,2025-11-05,GOLD001,Golden Valley Mine,Near Miss,Low,Equipment proximity,0,Training Gap,Closed,1200,11,November,4,0,0,0,Near miss or potential incident
+INC-00171,2025-11-15,GOLD001,Golden Valley Mine,Near Miss,Low,Equipment proximity,0,Training Gap,Closed,1200,11,November,4,0,0,0,Near miss or potential incident
+INC-00172,2025-11-26,GOLD001,Golden Valley Mine,Near Miss,Low,Slip/trip hazard,0,Environmental Factor,Closed,1200,11,November,4,0,0,0,Near miss or potential incident
+INC-00173,2025-12-06,GOLD001,Golden Valley Mine,Near Miss,Low,Slip/trip hazard,0,Procedural Gap,Closed,1200,12,December,4,0,0,0,Near miss or potential incident
+INC-00174,2025-12-09,GOLD001,Golden Valley Mine,Near Miss,Low,Pedestrian near vehicle,0,Equipment Failure,Closed,1200,12,December,4,0,0,0,Near miss or potential incident
+INC-00175,2025-12-14,GOLD001,Golden Valley Mine,Near Miss,Low,Pedestrian near vehicle,0,Training Gap,Closed,1200,12,December,4,0,0,0,Near miss or potential incident
+INC-00176,2025-04-09,GOLD001,Golden Valley Mine,Environmental Incident,Medium,Water quality issue,0,Human Error,Closed,1200,4,April,2,0,0,0,Environmental
+INC-00177,2025-04-21,GOLD001,Golden Valley Mine,Environmental Incident,Medium,Water quality issue,0,Equipment Failure,Closed,1200,4,April,2,0,0,0,Environmental
+INC-00178,2025-05-22,GOLD001,Golden Valley Mine,Environmental Incident,Medium,Dust exceedance,0,Procedural Gap,Closed,1200,5,May,2,0,0,0,Environmental
+INC-00179,2025-09-05,GOLD001,Golden Valley Mine,Environmental Incident,Medium,Dust exceedance,0,Procedural Gap,Closed,1200,9,September,3,0,0,0,Environmental
+INC-00180,2025-10-29,GOLD001,Golden Valley Mine,Environmental Incident,Medium,Minor fuel spill,0,Training Gap,Closed,1200,10,October,4,0,0,0,Environmental
+INC-00181,2025-03-06,LITH001,Lithium Creek Mine,Lost Time Injury (LTI),High,Back strain,8,Human Error,Closed,450,3,March,1,1,0,0,Injury
+INC-00182,2025-12-24,LITH001,Lithium Creek Mine,Lost Time Injury (LTI),High,Back strain,20,Environmental Factor,Closed,450,12,December,4,1,0,0,Injury
+INC-00183,2025-01-27,LITH001,Lithium Creek Mine,Medical Treatment Injury (MTI),Medium,Laceration,0,Training Gap,Closed,450,1,January,1,0,1,0,Injury
+INC-00184,2025-02-03,LITH001,Lithium Creek Mine,Medical Treatment Injury (MTI),Medium,Minor burn,0,Equipment Failure,Closed,450,2,February,1,0,1,0,Injury
+INC-00185,2025-02-28,LITH001,Lithium Creek Mine,Medical Treatment Injury (MTI),Medium,Laceration,0,Equipment Failure,Closed,450,2,February,1,0,1,0,Injury
+INC-00186,2025-04-05,LITH001,Lithium Creek Mine,Medical Treatment Injury (MTI),Medium,Contusion,0,Training Gap,Closed,450,4,April,2,0,1,0,Injury
+INC-00187,2025-05-10,LITH001,Lithium Creek Mine,Medical Treatment Injury (MTI),Medium,Contusion,0,Environmental Factor,Under Investigation,450,5,May,2,0,1,1,Injury
+INC-00188,2025-07-25,LITH001,Lithium Creek Mine,Medical Treatment Injury (MTI),Medium,Sprain,0,Training Gap,Under Investigation,450,7,July,3,0,1,1,Injury
+INC-00189,2025-09-02,LITH001,Lithium Creek Mine,Medical Treatment Injury (MTI),Medium,Sprain,0,Training Gap,Closed,450,9,September,3,0,1,0,Injury
+INC-00190,2025-09-09,LITH001,Lithium Creek Mine,Medical Treatment Injury (MTI),Medium,Laceration,0,Equipment Failure,Closed,450,9,September,3,0,1,0,Injury
+INC-00191,2025-01-02,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Minor bruise,0,Human Error,Closed,450,1,January,1,0,0,0,Injury
+INC-00192,2025-01-17,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Splinter,0,Training Gap,Closed,450,1,January,1,0,0,0,Injury
+INC-00193,2025-02-08,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Minor bruise,0,Human Error,Closed,450,2,February,1,0,0,0,Injury
+INC-00194,2025-02-11,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Scrape,0,Procedural Gap,Closed,450,2,February,1,0,0,0,Injury
+INC-00195,2025-03-22,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Minor cut,0,Human Error,Closed,450,3,March,1,0,0,0,Injury
+INC-00196,2025-03-30,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Splinter,0,Training Gap,Closed,450,3,March,1,0,0,0,Injury
+INC-00197,2025-04-29,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Minor bruise,0,Human Error,Under Investigation,450,4,April,2,0,0,1,Injury
+INC-00198,2025-05-03,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Splinter,0,Environmental Factor,Closed,450,5,May,2,0,0,0,Injury
+INC-00199,2025-05-16,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Minor bruise,0,Environmental Factor,Closed,450,5,May,2,0,0,0,Injury
+INC-00200,2025-05-25,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Minor cut,0,Environmental Factor,Closed,450,5,May,2,0,0,0,Injury
+INC-00201,2025-05-28,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Splinter,0,Human Error,Closed,450,5,May,2,0,0,0,Injury
+INC-00202,2025-05-30,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Scrape,0,Training Gap,Closed,450,5,May,2,0,0,0,Injury
+INC-00203,2025-07-29,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Splinter,0,Training Gap,Closed,450,7,July,3,0,0,0,Injury
+INC-00204,2025-08-19,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Scrape,0,Environmental Factor,Under Investigation,450,8,August,3,0,0,1,Injury
+INC-00205,2025-08-29,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Splinter,0,Equipment Failure,Under Investigation,450,8,August,3,0,0,1,Injury
+INC-00206,2025-10-10,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Minor bruise,0,Human Error,Under Investigation,450,10,October,4,0,0,1,Injury
+INC-00207,2025-11-01,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Splinter,0,Environmental Factor,Closed,450,11,November,4,0,0,0,Injury
+INC-00208,2025-12-05,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Splinter,0,Human Error,Closed,450,12,December,4,0,0,0,Injury
+INC-00209,2025-12-19,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Splinter,0,Environmental Factor,Under Investigation,450,12,December,4,0,0,1,Injury
+INC-00210,2025-12-28,LITH001,Lithium Creek Mine,First Aid Injury (FAI),Low,Splinter,0,Environmental Factor,Closed,450,12,December,4,0,0,0,Injury
+INC-00211,2025-01-01,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Training Gap,Under Investigation,450,1,January,1,0,0,1,Near miss or potential incident
+INC-00212,2025-01-28,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Uncontrolled energy release,0,Human Error,Closed,450,1,January,1,0,0,0,Near miss or potential incident
+INC-00213,2025-02-15,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Training Gap,Closed,450,2,February,1,0,0,0,Near miss or potential incident
+INC-00214,2025-03-01,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Environmental Factor,Under Investigation,450,3,March,1,0,0,1,Near miss or potential incident
+INC-00215,2025-04-07,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Human Error,Closed,450,4,April,2,0,0,0,Near miss or potential incident
+INC-00216,2025-05-10,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Procedural Gap,Closed,450,5,May,2,0,0,0,Near miss or potential incident
+INC-00217,2025-06-11,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Uncontrolled energy release,0,Human Error,Closed,450,6,June,2,0,0,0,Near miss or potential incident
+INC-00218,2025-06-15,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Environmental Factor,Closed,450,6,June,2,0,0,0,Near miss or potential incident
+INC-00219,2025-07-26,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Environmental Factor,Closed,450,7,July,3,0,0,0,Near miss or potential incident
+INC-00220,2025-07-31,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Environmental Factor,Under Investigation,450,7,July,3,0,0,1,Near miss or potential incident
+INC-00221,2025-08-21,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Uncontrolled energy release,0,Equipment Failure,Under Investigation,450,8,August,3,0,0,1,Near miss or potential incident
+INC-00222,2025-08-25,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Environmental Factor,Closed,450,8,August,3,0,0,0,Near miss or potential incident
+INC-00223,2025-09-21,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Human Error,Closed,450,9,September,3,0,0,0,Near miss or potential incident
+INC-00224,2025-10-05,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Uncontrolled energy release,0,Procedural Gap,Closed,450,10,October,4,0,0,0,Near miss or potential incident
+INC-00225,2025-12-03,LITH001,Lithium Creek Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Procedural Gap,Closed,450,12,December,4,0,0,0,Near miss or potential incident
+INC-00226,2025-01-19,LITH001,Lithium Creek Mine,Near Miss,Low,Equipment proximity,0,Human Error,Closed,450,1,January,1,0,0,0,Near miss or potential incident
+INC-00227,2025-01-23,LITH001,Lithium Creek Mine,Near Miss,Low,Equipment proximity,0,Equipment Failure,Closed,450,1,January,1,0,0,0,Near miss or potential incident
+INC-00228,2025-02-21,LITH001,Lithium Creek Mine,Near Miss,Low,Equipment proximity,0,Procedural Gap,Closed,450,2,February,1,0,0,0,Near miss or potential incident
+INC-00229,2025-03-06,LITH001,Lithium Creek Mine,Near Miss,Low,Equipment proximity,0,Human Error,Closed,450,3,March,1,0,0,0,Near miss or potential incident
+INC-00230,2025-03-18,LITH001,Lithium Creek Mine,Near Miss,Low,Equipment proximity,0,Procedural Gap,Under Investigation,450,3,March,1,0,0,1,Near miss or potential incident
+INC-00231,2025-03-19,LITH001,Lithium Creek Mine,Near Miss,Low,Pedestrian near vehicle,0,Training Gap,Closed,450,3,March,1,0,0,0,Near miss or potential incident
+INC-00232,2025-04-07,LITH001,Lithium Creek Mine,Near Miss,Low,Falling object,0,Procedural Gap,Closed,450,4,April,2,0,0,0,Near miss or potential incident
+INC-00233,2025-04-30,LITH001,Lithium Creek Mine,Near Miss,Low,Pedestrian near vehicle,0,Environmental Factor,Closed,450,4,April,2,0,0,0,Near miss or potential incident
+INC-00234,2025-05-03,LITH001,Lithium Creek Mine,Near Miss,Low,Pedestrian near vehicle,0,Environmental Factor,Closed,450,5,May,2,0,0,0,Near miss or potential incident
+INC-00235,2025-06-12,LITH001,Lithium Creek Mine,Near Miss,Low,Slip/trip hazard,0,Human Error,Closed,450,6,June,2,0,0,0,Near miss or potential incident
+INC-00236,2025-06-14,LITH001,Lithium Creek Mine,Near Miss,Low,Slip/trip hazard,0,Human Error,Closed,450,6,June,2,0,0,0,Near miss or potential incident
+INC-00237,2025-06-19,LITH001,Lithium Creek Mine,Near Miss,Low,Slip/trip hazard,0,Procedural Gap,Under Investigation,450,6,June,2,0,0,1,Near miss or potential incident
+INC-00238,2025-06-20,LITH001,Lithium Creek Mine,Near Miss,Low,Falling object,0,Equipment Failure,Under Investigation,450,6,June,2,0,0,1,Near miss or potential incident
+INC-00239,2025-06-26,LITH001,Lithium Creek Mine,Near Miss,Low,Falling object,0,Equipment Failure,Closed,450,6,June,2,0,0,0,Near miss or potential incident
+INC-00240,2025-07-13,LITH001,Lithium Creek Mine,Near Miss,Low,Pedestrian near vehicle,0,Training Gap,Under Investigation,450,7,July,3,0,0,1,Near miss or potential incident
+INC-00241,2025-07-15,LITH001,Lithium Creek Mine,Near Miss,Low,Falling object,0,Environmental Factor,Closed,450,7,July,3,0,0,0,Near miss or potential incident
+INC-00242,2025-07-16,LITH001,Lithium Creek Mine,Near Miss,Low,Falling object,0,Environmental Factor,Closed,450,7,July,3,0,0,0,Near miss or potential incident
+INC-00243,2025-07-17,LITH001,Lithium Creek Mine,Near Miss,Low,Equipment proximity,0,Procedural Gap,Closed,450,7,July,3,0,0,0,Near miss or potential incident
+INC-00244,2025-07-30,LITH001,Lithium Creek Mine,Near Miss,Low,Equipment proximity,0,Procedural Gap,Closed,450,7,July,3,0,0,0,Near miss or potential incident
+INC-00245,2025-08-14,LITH001,Lithium Creek Mine,Near Miss,Low,Pedestrian near vehicle,0,Environmental Factor,Closed,450,8,August,3,0,0,0,Near miss or potential incident
+INC-00246,2025-08-17,LITH001,Lithium Creek Mine,Near Miss,Low,Slip/trip hazard,0,Environmental Factor,Closed,450,8,August,3,0,0,0,Near miss or potential incident
+INC-00247,2025-08-22,LITH001,Lithium Creek Mine,Near Miss,Low,Equipment proximity,0,Procedural Gap,Closed,450,8,August,3,0,0,0,Near miss or potential incident
+INC-00248,2025-08-31,LITH001,Lithium Creek Mine,Near Miss,Low,Equipment proximity,0,Environmental Factor,Closed,450,8,August,3,0,0,0,Near miss or potential incident
+INC-00249,2025-09-05,LITH001,Lithium Creek Mine,Near Miss,Low,Falling object,0,Environmental Factor,Closed,450,9,September,3,0,0,0,Near miss or potential incident
+INC-00250,2025-09-08,LITH001,Lithium Creek Mine,Near Miss,Low,Slip/trip hazard,0,Procedural Gap,Closed,450,9,September,3,0,0,0,Near miss or potential incident
+INC-00251,2025-09-11,LITH001,Lithium Creek Mine,Near Miss,Low,Equipment proximity,0,Procedural Gap,Closed,450,9,September,3,0,0,0,Near miss or potential incident
+INC-00252,2025-09-15,LITH001,Lithium Creek Mine,Near Miss,Low,Pedestrian near vehicle,0,Training Gap,Under Investigation,450,9,September,3,0,0,1,Near miss or potential incident
+INC-00253,2025-09-27,LITH001,Lithium Creek Mine,Near Miss,Low,Slip/trip hazard,0,Equipment Failure,Closed,450,9,September,3,0,0,0,Near miss or potential incident
+INC-00254,2025-10-03,LITH001,Lithium Creek Mine,Near Miss,Low,Falling object,0,Equipment Failure,Closed,450,10,October,4,0,0,0,Near miss or potential incident
+INC-00255,2025-10-06,LITH001,Lithium Creek Mine,Near Miss,Low,Falling object,0,Human Error,Closed,450,10,October,4,0,0,0,Near miss or potential incident
+INC-00256,2025-10-10,LITH001,Lithium Creek Mine,Near Miss,Low,Slip/trip hazard,0,Environmental Factor,Closed,450,10,October,4,0,0,0,Near miss or potential incident
+INC-00257,2025-10-20,LITH001,Lithium Creek Mine,Near Miss,Low,Slip/trip hazard,0,Equipment Failure,Closed,450,10,October,4,0,0,0,Near miss or potential incident
+INC-00258,2025-10-24,LITH001,Lithium Creek Mine,Near Miss,Low,Slip/trip hazard,0,Procedural Gap,Under Investigation,450,10,October,4,0,0,1,Near miss or potential incident
+INC-00259,2025-10-28,LITH001,Lithium Creek Mine,Near Miss,Low,Falling object,0,Equipment Failure,Closed,450,10,October,4,0,0,0,Near miss or potential incident
+INC-00260,2025-10-30,LITH001,Lithium Creek Mine,Near Miss,Low,Slip/trip hazard,0,Training Gap,Closed,450,10,October,4,0,0,0,Near miss or potential incident
+INC-00261,2025-11-30,LITH001,Lithium Creek Mine,Near Miss,Low,Falling object,0,Procedural Gap,Under Investigation,450,11,November,4,0,0,1,Near miss or potential incident
+INC-00262,2025-12-04,LITH001,Lithium Creek Mine,Near Miss,Low,Slip/trip hazard,0,Procedural Gap,Closed,450,12,December,4,0,0,0,Near miss or potential incident
+INC-00263,2025-12-06,LITH001,Lithium Creek Mine,Near Miss,Low,Equipment proximity,0,Human Error,Closed,450,12,December,4,0,0,0,Near miss or potential incident
+INC-00264,2025-12-24,LITH001,Lithium Creek Mine,Near Miss,Low,Falling object,0,Environmental Factor,Closed,450,12,December,4,0,0,0,Near miss or potential incident
+INC-00265,2025-12-28,LITH001,Lithium Creek Mine,Near Miss,Low,Pedestrian near vehicle,0,Environmental Factor,Closed,450,12,December,4,0,0,0,Near miss or potential incident
+INC-00266,2025-03-05,LITH001,Lithium Creek Mine,Environmental Incident,Medium,Water quality issue,0,Training Gap,Under Investigation,450,3,March,1,0,0,1,Environmental
+INC-00267,2025-05-16,LITH001,Lithium Creek Mine,Environmental Incident,Medium,Water quality issue,0,Human Error,Closed,450,5,May,2,0,0,0,Environmental
+INC-00268,2025-07-08,LITH001,Lithium Creek Mine,Environmental Incident,Medium,Waste handling,0,Human Error,Closed,450,7,July,3,0,0,0,Environmental
+INC-00269,2025-08-21,LITH001,Lithium Creek Mine,Environmental Incident,Medium,Dust exceedance,0,Human Error,Under Investigation,450,8,August,3,0,0,1,Environmental
+INC-00270,2025-10-02,LITH001,Lithium Creek Mine,Environmental Incident,Medium,Water quality issue,0,Environmental Factor,Closed,450,10,October,4,0,0,0,Environmental
+INC-00271,2025-01-24,COPP001,Copper Hills Mine,Lost Time Injury (LTI),High,Fall from height,14,Environmental Factor,Closed,280,1,January,1,1,0,0,Injury
+INC-00272,2025-03-13,COPP001,Copper Hills Mine,Lost Time Injury (LTI),High,Fall from height,12,Training Gap,Closed,280,3,March,1,1,0,0,Injury
+INC-00273,2025-07-09,COPP001,Copper Hills Mine,Medical Treatment Injury (MTI),Medium,Minor burn,0,Environmental Factor,Closed,280,7,July,3,0,1,0,Injury
+INC-00274,2025-07-18,COPP001,Copper Hills Mine,Medical Treatment Injury (MTI),Medium,Contusion,0,Training Gap,Under Investigation,280,7,July,3,0,1,1,Injury
+INC-00275,2025-08-03,COPP001,Copper Hills Mine,Medical Treatment Injury (MTI),Medium,Sprain,0,Human Error,Closed,280,8,August,3,0,1,0,Injury
+INC-00276,2025-08-21,COPP001,Copper Hills Mine,Medical Treatment Injury (MTI),Medium,Minor burn,0,Environmental Factor,Under Investigation,280,8,August,3,0,1,1,Injury
+INC-00277,2025-10-04,COPP001,Copper Hills Mine,Medical Treatment Injury (MTI),Medium,Minor burn,0,Procedural Gap,Closed,280,10,October,4,0,1,0,Injury
+INC-00278,2025-10-28,COPP001,Copper Hills Mine,Medical Treatment Injury (MTI),Medium,Sprain,0,Training Gap,Closed,280,10,October,4,0,1,0,Injury
+INC-00279,2025-12-10,COPP001,Copper Hills Mine,Medical Treatment Injury (MTI),Medium,Laceration,0,Environmental Factor,Closed,280,12,December,4,0,1,0,Injury
+INC-00280,2025-12-23,COPP001,Copper Hills Mine,Medical Treatment Injury (MTI),Medium,Minor burn,0,Human Error,Under Investigation,280,12,December,4,0,1,1,Injury
+INC-00281,2025-01-11,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Scrape,0,Training Gap,Closed,280,1,January,1,0,0,0,Injury
+INC-00282,2025-01-26,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Splinter,0,Equipment Failure,Closed,280,1,January,1,0,0,0,Injury
+INC-00283,2025-02-05,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Splinter,0,Equipment Failure,Closed,280,2,February,1,0,0,0,Injury
+INC-00284,2025-02-16,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor cut,0,Equipment Failure,Closed,280,2,February,1,0,0,0,Injury
+INC-00285,2025-03-06,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Splinter,0,Equipment Failure,Closed,280,3,March,1,0,0,0,Injury
+INC-00286,2025-04-16,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor cut,0,Equipment Failure,Closed,280,4,April,2,0,0,0,Injury
+INC-00287,2025-04-17,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor cut,0,Equipment Failure,Under Investigation,280,4,April,2,0,0,1,Injury
+INC-00288,2025-04-19,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor cut,0,Human Error,Under Investigation,280,4,April,2,0,0,1,Injury
+INC-00289,2025-04-21,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor bruise,0,Procedural Gap,Closed,280,4,April,2,0,0,0,Injury
+INC-00290,2025-04-30,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor bruise,0,Training Gap,Closed,280,4,April,2,0,0,0,Injury
+INC-00291,2025-05-05,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor cut,0,Training Gap,Closed,280,5,May,2,0,0,0,Injury
+INC-00292,2025-06-18,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor bruise,0,Human Error,Closed,280,6,June,2,0,0,0,Injury
+INC-00293,2025-06-20,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor bruise,0,Environmental Factor,Under Investigation,280,6,June,2,0,0,1,Injury
+INC-00294,2025-10-11,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor cut,0,Environmental Factor,Under Investigation,280,10,October,4,0,0,1,Injury
+INC-00295,2025-10-17,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor cut,0,Human Error,Closed,280,10,October,4,0,0,0,Injury
+INC-00296,2025-10-28,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Scrape,0,Human Error,Closed,280,10,October,4,0,0,0,Injury
+INC-00297,2025-11-02,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Splinter,0,Training Gap,Closed,280,11,November,4,0,0,0,Injury
+INC-00298,2025-11-24,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor bruise,0,Training Gap,Closed,280,11,November,4,0,0,0,Injury
+INC-00299,2025-11-25,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor bruise,0,Training Gap,Under Investigation,280,11,November,4,0,0,1,Injury
+INC-00300,2025-12-06,COPP001,Copper Hills Mine,First Aid Injury (FAI),Low,Minor cut,0,Human Error,Closed,280,12,December,4,0,0,0,Injury
+INC-00301,2025-02-18,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Uncontrolled energy release,0,Human Error,Closed,280,2,February,1,0,0,0,Near miss or potential incident
+INC-00302,2025-03-20,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Human Error,Under Investigation,280,3,March,1,0,0,1,Near miss or potential incident
+INC-00303,2025-04-27,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Procedural Gap,Closed,280,4,April,2,0,0,0,Near miss or potential incident
+INC-00304,2025-05-11,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Training Gap,Closed,280,5,May,2,0,0,0,Near miss or potential incident
+INC-00305,2025-06-10,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Near miss vehicle collision,0,Environmental Factor,Closed,280,6,June,2,0,0,0,Near miss or potential incident
+INC-00306,2025-06-23,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Uncontrolled energy release,0,Human Error,Closed,280,6,June,2,0,0,0,Near miss or potential incident
+INC-00307,2025-07-11,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Procedural Gap,Closed,280,7,July,3,0,0,0,Near miss or potential incident
+INC-00308,2025-07-24,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Equipment Failure,Under Investigation,280,7,July,3,0,0,1,Near miss or potential incident
+INC-00309,2025-07-31,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Human Error,Closed,280,7,July,3,0,0,0,Near miss or potential incident
+INC-00310,2025-08-01,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Human Error,Closed,280,8,August,3,0,0,0,Near miss or potential incident
+INC-00311,2025-08-07,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Environmental Factor,Closed,280,8,August,3,0,0,0,Near miss or potential incident
+INC-00312,2025-08-09,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Human Error,Closed,280,8,August,3,0,0,0,Near miss or potential incident
+INC-00313,2025-08-20,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Procedural Gap,Closed,280,8,August,3,0,0,0,Near miss or potential incident
+INC-00314,2025-08-21,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Equipment malfunction,0,Human Error,Closed,280,8,August,3,0,0,0,Near miss or potential incident
+INC-00315,2025-12-07,COPP001,Copper Hills Mine,Potential Significant Incident (PSI),Medium,Geotechnical movement,0,Training Gap,Under Investigation,280,12,December,4,0,0,1,Near miss or potential incident
+INC-00316,2025-01-16,COPP001,Copper Hills Mine,Near Miss,Low,Slip/trip hazard,0,Human Error,Closed,280,1,January,1,0,0,0,Near miss or potential incident
+INC-00317,2025-01-26,COPP001,Copper Hills Mine,Near Miss,Low,Equipment proximity,0,Training Gap,Closed,280,1,January,1,0,0,0,Near miss or potential incident
+INC-00318,2025-01-27,COPP001,Copper Hills Mine,Near Miss,Low,Pedestrian near vehicle,0,Equipment Failure,Closed,280,1,January,1,0,0,0,Near miss or potential incident
+INC-00319,2025-02-05,COPP001,Copper Hills Mine,Near Miss,Low,Falling object,0,Equipment Failure,Closed,280,2,February,1,0,0,0,Near miss or potential incident
+INC-00320,2025-02-11,COPP001,Copper Hills Mine,Near Miss,Low,Slip/trip hazard,0,Procedural Gap,Closed,280,2,February,1,0,0,0,Near miss or potential incident
+INC-00321,2025-02-13,COPP001,Copper Hills Mine,Near Miss,Low,Pedestrian near vehicle,0,Environmental Factor,Under Investigation,280,2,February,1,0,0,1,Near miss or potential incident
+INC-00322,2025-02-16,COPP001,Copper Hills Mine,Near Miss,Low,Falling object,0,Equipment Failure,Under Investigation,280,2,February,1,0,0,1,Near miss or potential incident
+INC-00323,2025-02-26,COPP001,Copper Hills Mine,Near Miss,Low,Falling object,0,Training Gap,Closed,280,2,February,1,0,0,0,Near miss or potential incident
+INC-00324,2025-02-28,COPP001,Copper Hills Mine,Near Miss,Low,Pedestrian near vehicle,0,Environmental Factor,Closed,280,2,February,1,0,0,0,Near miss or potential incident
+INC-00325,2025-03-14,COPP001,Copper Hills Mine,Near Miss,Low,Equipment proximity,0,Human Error,Under Investigation,280,3,March,1,0,0,1,Near miss or potential incident
+INC-00326,2025-03-21,COPP001,Copper Hills Mine,Near Miss,Low,Pedestrian near vehicle,0,Procedural Gap,Under Investigation,280,3,March,1,0,0,1,Near miss or potential incident
+INC-00327,2025-03-22,COPP001,Copper Hills Mine,Near Miss,Low,Equipment proximity,0,Environmental Factor,Closed,280,3,March,1,0,0,0,Near miss or potential incident
+INC-00328,2025-04-21,COPP001,Copper Hills Mine,Near Miss,Low,Pedestrian near vehicle,0,Environmental Factor,Closed,280,4,April,2,0,0,0,Near miss or potential incident
+INC-00329,2025-05-20,COPP001,Copper Hills Mine,Near Miss,Low,Slip/trip hazard,0,Equipment Failure,Under Investigation,280,5,May,2,0,0,1,Near miss or potential incident
+INC-00330,2025-05-26,COPP001,Copper Hills Mine,Near Miss,Low,Slip/trip hazard,0,Human Error,Under Investigation,280,5,May,2,0,0,1,Near miss or potential incident
+INC-00331,2025-06-09,COPP001,Copper Hills Mine,Near Miss,Low,Pedestrian near vehicle,0,Equipment Failure,Under Investigation,280,6,June,2,0,0,1,Near miss or potential incident
+INC-00332,2025-06-16,COPP001,Copper Hills Mine,Near Miss,Low,Equipment proximity,0,Training Gap,Closed,280,6,June,2,0,0,0,Near miss or potential incident
+INC-00333,2025-06-24,COPP001,Copper Hills Mine,Near Miss,Low,Equipment proximity,0,Procedural Gap,Closed,280,6,June,2,0,0,0,Near miss or potential incident
+INC-00334,2025-06-26,COPP001,Copper Hills Mine,Near Miss,Low,Falling object,0,Procedural Gap,Closed,280,6,June,2,0,0,0,Near miss or potential incident
+INC-00335,2025-07-09,COPP001,Copper Hills Mine,Near Miss,Low,Pedestrian near vehicle,0,Training Gap,Closed,280,7,July,3,0,0,0,Near miss or potential incident
+INC-00336,2025-07-12,COPP001,Copper Hills Mine,Near Miss,Low,Falling object,0,Procedural Gap,Closed,280,7,July,3,0,0,0,Near miss or potential incident
+INC-00337,2025-08-01,COPP001,Copper Hills Mine,Near Miss,Low,Falling object,0,Equipment Failure,Closed,280,8,August,3,0,0,0,Near miss or potential incident
+INC-00338,2025-08-03,COPP001,Copper Hills Mine,Near Miss,Low,Falling object,0,Procedural Gap,Closed,280,8,August,3,0,0,0,Near miss or potential incident
+INC-00339,2025-08-06,COPP001,Copper Hills Mine,Near Miss,Low,Falling object,0,Training Gap,Closed,280,8,August,3,0,0,0,Near miss or potential incident
+INC-00340,2025-08-09,COPP001,Copper Hills Mine,Near Miss,Low,Pedestrian near vehicle,0,Equipment Failure,Under Investigation,280,8,August,3,0,0,1,Near miss or potential incident
+INC-00341,2025-08-15,COPP001,Copper Hills Mine,Near Miss,Low,Equipment proximity,0,Training Gap,Under Investigation,280,8,August,3,0,0,1,Near miss or potential incident
+INC-00342,2025-08-21,COPP001,Copper Hills Mine,Near Miss,Low,Slip/trip hazard,0,Procedural Gap,Closed,280,8,August,3,0,0,0,Near miss or potential incident
+INC-00343,2025-09-06,COPP001,Copper Hills Mine,Near Miss,Low,Equipment proximity,0,Human Error,Under Investigation,280,9,September,3,0,0,1,Near miss or potential incident
+INC-00344,2025-09-07,COPP001,Copper Hills Mine,Near Miss,Low,Equipment proximity,0,Procedural Gap,Closed,280,9,September,3,0,0,0,Near miss or potential incident
+INC-00345,2025-09-20,COPP001,Copper Hills Mine,Near Miss,Low,Pedestrian near vehicle,0,Procedural Gap,Closed,280,9,September,3,0,0,0,Near miss or potential incident
+INC-00346,2025-09-29,COPP001,Copper Hills Mine,Near Miss,Low,Slip/trip hazard,0,Environmental Factor,Under Investigation,280,9,September,3,0,0,1,Near miss or potential incident
+INC-00347,2025-10-18,COPP001,Copper Hills Mine,Near Miss,Low,Pedestrian near vehicle,0,Human Error,Closed,280,10,October,4,0,0,0,Near miss or potential incident
+INC-00348,2025-10-31,COPP001,Copper Hills Mine,Near Miss,Low,Slip/trip hazard,0,Human Error,Closed,280,10,October,4,0,0,0,Near miss or potential incident
+INC-00349,2025-11-02,COPP001,Copper Hills Mine,Near Miss,Low,Equipment proximity,0,Environmental Factor,Closed,280,11,November,4,0,0,0,Near miss or potential incident
+INC-00350,2025-11-07,COPP001,Copper Hills Mine,Near Miss,Low,Equipment proximity,0,Training Gap,Closed,280,11,November,4,0,0,0,Near miss or potential incident
+INC-00351,2025-11-13,COPP001,Copper Hills Mine,Near Miss,Low,Slip/trip hazard,0,Training Gap,Under Investigation,280,11,November,4,0,0,1,Near miss or potential incident
+INC-00352,2025-11-21,COPP001,Copper Hills Mine,Near Miss,Low,Falling object,0,Human Error,Under Investigation,280,11,November,4,0,0,1,Near miss or potential incident
+INC-00353,2025-12-05,COPP001,Copper Hills Mine,Near Miss,Low,Pedestrian near vehicle,0,Procedural Gap,Closed,280,12,December,4,0,0,0,Near miss or potential incident
+INC-00354,2025-12-12,COPP001,Copper Hills Mine,Near Miss,Low,Falling object,0,Human Error,Closed,280,12,December,4,0,0,0,Near miss or potential incident
+INC-00355,2025-12-14,COPP001,Copper Hills Mine,Near Miss,Low,Equipment proximity,0,Environmental Factor,Closed,280,12,December,4,0,0,0,Near miss or potential incident
+INC-00356,2025-05-25,COPP001,Copper Hills Mine,Environmental Incident,Medium,Water quality issue,0,Training Gap,Closed,280,5,May,2,0,0,0,Environmental
+INC-00357,2025-07-06,COPP001,Copper Hills Mine,Environmental Incident,Medium,Water quality issue,0,Human Error,Closed,280,7,July,3,0,0,0,Environmental
+INC-00358,2025-07-10,COPP001,Copper Hills Mine,Environmental Incident,Medium,Minor fuel spill,0,Training Gap,Under Investigation,280,7,July,3,0,0,1,Environmental
+INC-00359,2025-07-18,COPP001,Copper Hills Mine,Environmental Incident,Medium,Water quality issue,0,Procedural Gap,Closed,280,7,July,3,0,0,0,Environmental
+INC-00360,2025-07-29,COPP001,Copper Hills Mine,Environmental Incident,Medium,Water quality issue,0,Human Error,Closed,280,7,July,3,0,0,0,Environmental

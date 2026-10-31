@@ -1,0 +1,4 @@
+breakdown_level,record_count,average_oee_pct,average_breakdown_hours,average_maintenance_cost_aud
+No breakdown,7877,76.67,0.0,1804.15
+Up to 6 hours,37,59.02,4.99,41517.63
+Over 6 hours,116,48.58,8.79,49554.71

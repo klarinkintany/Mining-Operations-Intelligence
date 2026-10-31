@@ -1,0 +1,46 @@
+{
+    "model": "Random Forest Regressor (sklearn Pipeline)",
+    "target": "total_cost_aud",
+    "features": [
+        "site_id",
+        "month_num",
+        "day_of_week",
+        "day_of_year",
+        "tonnes_mined"
+    ],
+    "split": "time-based by date, 80% train / 20% test",
+    "training_rows": 1460,
+    "testing_rows": 365,
+    "test_period": [
+        "2025-10-20",
+        "2025-12-31"
+    ],
+    "overall_metrics": {
+        "A: Site average": {
+            "MAE_aud": 138206.7938,
+            "RMSE_aud": 300963.7429,
+            "R2": 0.9531,
+            "WAPE_pct": 9.2525
+        },
+        "B: Linear per site": {
+            "MAE_aud": 37037.8944,
+            "RMSE_aud": 57360.7321,
+            "R2": 0.9983,
+            "WAPE_pct": 2.4796
+        },
+        "C: Random Forest": {
+            "MAE_aud": 44412.0484,
+            "RMSE_aud": 78915.8351,
+            "R2": 0.9968,
+            "WAPE_pct": 2.9732
+        }
+    },
+    "random_forest_mape_pct_by_site": {
+        "COPP001": 2.6677,
+        "GOLD001": 2.9697,
+        "IRON001": 4.1531,
+        "LITH001": 3.2187,
+        "NICK001": 0.0
+    },
+    "data_type": "Synthetic mining operations data"
+}

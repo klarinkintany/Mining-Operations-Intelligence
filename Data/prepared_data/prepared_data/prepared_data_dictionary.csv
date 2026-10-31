@@ -1,0 +1,47 @@
+dataset,column,origin,dtype,description
+equipment_prepared.csv,date,source,datetime64[ns],Calendar date of the record
+equipment_prepared.csv,site_id,source,object,Mine site identifier
+equipment_prepared.csv,equipment_id,source,object,Equipment unit identifier
+equipment_prepared.csv,equipment_type,source,object,"Equipment type (Haul Truck, Excavator, Dozer, LHD Loader, Jumbo Drill)"
+equipment_prepared.csv,model,source,object,Equipment model
+equipment_prepared.csv,autonomous,source,int64,"1 if the unit is autonomous, 0 if conventional"
+equipment_prepared.csv,available_hours,source,float64,Hours available in the day = 24 - maintenance - breakdown
+equipment_prepared.csv,operating_hours,source,float64,Hours the unit operated
+equipment_prepared.csv,idle_hours,source,float64,"Hours available but idle (operating + idle = available, +/-0.1 rounding)"
+equipment_prepared.csv,maintenance_hours,source,float64,Planned maintenance hours
+equipment_prepared.csv,breakdown_hours,source,float64,Breakdown hours
+equipment_prepared.csv,availability_pct,source,float64,Available hours / 24 x 100
+equipment_prepared.csv,utilization_pct,source,float64,Operating hours / available hours x 100
+equipment_prepared.csv,oee_pct,source,float64,Availability x utilization / 100
+equipment_prepared.csv,fuel_consumed_liters,source,int64,Fuel consumed (liters)
+equipment_prepared.csv,maintenance_cost_aud,source,float64,Maintenance cost (AUD)
+equipment_prepared.csv,site_name,added,object,Mine site name (joined from mine_sites)
+equipment_prepared.csv,operation_mode,added,object,Autonomous or Conventional (from autonomous)
+equipment_prepared.csv,month,added,int32,Calendar month number
+equipment_prepared.csv,month_name,added,object,Calendar month name
+equipment_prepared.csv,quarter,added,int32,Calendar quarter
+equipment_prepared.csv,day_of_week,added,object,Day of the week
+equipment_prepared.csv,downtime_hours,added,float64,maintenance_hours + breakdown_hours
+equipment_prepared.csv,has_breakdown,added,int64,1 if breakdown_hours > 0
+equipment_prepared.csv,has_maintenance,added,int64,1 if maintenance_hours > 0
+equipment_prepared.csv,maintenance_breakdown_overlap_flag,added,int64,1 if maintenance and breakdown both occurred on the day
+equipment_prepared.csv,day_type,added,object,"Breakdown day, Maintenance-only day, or Normal day (breakdown takes precedence)"
+equipment_prepared.csv,hours_rounding_flag,added,int64,1 if operating + idle differs from available by a rounding step (0.1 h)
+safety_prepared.csv,incident_id,source,object,Safety incident identifier
+safety_prepared.csv,date,source,datetime64[ns],Calendar date of the record
+safety_prepared.csv,site_id,source,object,Mine site identifier
+safety_prepared.csv,site_name,source,object,Mine site name (joined from mine_sites)
+safety_prepared.csv,incident_type,source,object,"Incident type (LTI, MTI, FAI, PSI, Near Miss, Environmental Incident)"
+safety_prepared.csv,severity,source,object,"Low, Medium, or High (High = lost time injury)"
+safety_prepared.csv,description,source,object,Short description of the incident
+safety_prepared.csv,days_lost,source,int64,Working days lost (only on lost time injuries)
+safety_prepared.csv,root_cause,source,object,Recorded root cause
+safety_prepared.csv,investigation_status,source,object,Closed or Under Investigation
+safety_prepared.csv,workforce_size,source,int64,Site workforce count at the time of the incident
+safety_prepared.csv,month,added,int32,Calendar month number
+safety_prepared.csv,month_name,added,object,Calendar month name
+safety_prepared.csv,quarter,added,int32,Calendar quarter
+safety_prepared.csv,is_lost_time_injury,added,int64,1 if the incident is a lost time injury (LTI)
+safety_prepared.csv,is_medical_treatment_injury,added,int64,1 if the incident is a medical treatment injury (MTI)
+safety_prepared.csv,is_open_investigation,added,int64,1 if investigation_status is not Closed
+safety_prepared.csv,incident_category,added,object,"Injury, Near miss or potential incident, or Environmental"

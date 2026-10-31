@@ -1,0 +1,6 @@
+equipment_type,units,records,avg_availability_pct,avg_utilization_pct,avg_oee_pct,total_operating_hours,total_breakdown_hours,total_maintenance_cost_aud,total_fuel_liters,breakdown_hours_per_unit,maintenance_cost_per_unit_aud,maintenance_cost_per_operating_hour_aud,fuel_liters_per_operating_hour
+Haul Truck,8,2920,98.46,85.55,84.23,59027.7,370.0,7362224.01,10623509,46.25,920278.0,124.72,179.97
+Excavator,5,1825,98.23,81.82,80.38,35208.1,306.3,5099111.3,14082308,61.26,1019822.26,144.83,399.97
+Dozer,4,1460,98.34,75.07,73.83,25869.4,222.8,4023670.09,3103591,55.7,1005917.52,155.54,119.97
+LHD Loader,3,1095,98.1,69.97,68.63,18034.8,201.3,3053753.38,1442292,67.1,1017917.79,169.33,79.97
+Jumbo Drill,2,730,98.4,50.35,49.55,8681.5,103.4,1956990.44,520792,51.7,978495.22,225.42,59.99
