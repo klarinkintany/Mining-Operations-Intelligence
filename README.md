@@ -155,7 +155,7 @@ Enam notebook disusun berurutan, dari audit mentah hingga model prediksi. Klik t
 
 **Library:** `pandas` · `numpy` · `matplotlib` · `scikit-learn` · `sqlite3` · `joblib`
 
->  Notebook membaca database SQLite (lihat [Sumber Data](https://drive.google.com/drive/folders/1wX7wQakPch7WY26-ySGEieoPggcF27ns?usp=sharing)). Saat dijalankan di Colab, unggah file database ke sesi Colab atau mount Google Drive, lalu sesuaikan path pada sel koneksi database.
+>  Notebook membaca database SQLite (lihat [Sumber Data]([https://drive.google.com/drive/folders/1wX7wQakPch7WY26-ySGEieoPggcF27ns?usp=sharing](https://github.com/klarinkintany/Mining-Operations-Intelligence/blob/main/Database/mining_operations.db))). Saat dijalankan di Colab, unggah file database ke sesi Colab atau mount Google Drive, lalu sesuaikan path pada sel koneksi database.
 
 ---
 
