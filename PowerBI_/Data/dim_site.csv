@@ -1,0 +1,6 @@
+site_id,site_name,commodity,status,annual_target_tonnes,tonnes_processed,avg_plan_adherence_pct,corr_tonnes_vs_cost,r2_linear_fit,variable_cost_per_tonne_aud,fixed_cost_per_day_aud
+IRON001,Iron Ridge Mine,Iron Ore,Operational,50000000,45996594,93.8025,0.980139,0.960673,26.984603,8466.900182
+GOLD001,Golden Valley Mine,Gold,Operational,13000000,11857123,93.0477,0.975047,0.950717,78.68989,51686.050249
+LITH001,Lithium Creek Mine,Lithium,Operational,700000,640293,93.2334,0.977771,0.956036,636.494559,3965.324785
+COPP001,Copper Hills Mine,Copper,Operational,20000,17918,92.0964,0.977869,0.956227,4039.596168,1961.71527
+NICK001,Nickel Point Mine,Nickel,Care & Maintenance,0,0,0.0,,,,8500.0
