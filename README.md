@@ -6,7 +6,7 @@
 
 ### An End-to-End Data Analytics, Machine Learning & Operational Perfomance Project
 
-Analytics covering data preparation, exploratory data analysis (EDA), SQL-based analysis, equipment anomaly detection, operational cost modeling, and interactive Power BI dashboards across five mining sites throughout FY2025.
+Analytics covering data preparation, exploratory data analysis (EDA), SQL-based analysis, equipment anomaly detection, operational cost modeling, and interactive Power BI dashboards across five mining sites Australia throughout FY2025.
 
 <img src="Images\1 Executive Overview.png" alt="Executive Overview Dashboard" width="95%">
 
