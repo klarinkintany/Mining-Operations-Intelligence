@@ -18,7 +18,7 @@ Analytics covering data preparation, exploratory data analysis (EDA), SQL-based 
 
 - [Ringkasan Proyek](#ringkasan-proyek)
 - [Temuan Utama](#temuan-utama)
-- [Dashboard Power BI](#-dashboard-power-bi)
+- [Dashboard Power BI](#dashboard-power-bi)
 - [Notebook Python (Google Colab)](#notebook-python-google-colab)
 - [Analisis SQL](#analisis-sql)
 - [Model Data & DAX](#model-data--dax)
@@ -136,7 +136,7 @@ Insiden per severity/bulan, root cause, site, jenis insiden, dan daftar risiko d
 
 </details>
 
-> **Membuka file Power BI:** buka link google drive Data Power BI : | [`Mining Operations Intelligence_PowerBI`](https://drive.google.com/drive/folders/1Y_Hlqi898V1GelleFMCI52BiG0aMfUNT?usp=drive_link) |  `Power_BI/MiningDashboard.pbip` di Power BI Desktop, lalu isi parameter `DataFolder` (lihat [Cara Menjalankan](#-cara-menjalankan)).
+> **Membuka file Power BI:** buka link google drive Data Power BI : | [`Mining Operations Intelligence_PowerBI`](https://drive.google.com/drive/folders/1Y_Hlqi898V1GelleFMCI52BiG0aMfUNT?usp=drive_link) |  `Power_BI/MiningDashboard.pbip` di Power BI Desktop, lalu isi parameter `DataFolder` (lihat [Cara Menjalankan](#cara-menjalankan)).
 
 ---
 
@@ -313,7 +313,7 @@ Klarin Kintany
 
 Project Mining Operations Intelligence
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/klarin-kintany)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white](https://www.linkedin.com/in/klarin-kintany/))]
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/klarinkintany)
 
 ---
