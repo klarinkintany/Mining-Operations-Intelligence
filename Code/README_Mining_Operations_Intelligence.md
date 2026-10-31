@@ -263,6 +263,5 @@ industry.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **Python · SQL · Machine Learning · Power BI**
-:::
+
