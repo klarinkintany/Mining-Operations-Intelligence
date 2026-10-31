@@ -167,7 +167,7 @@ Tiga skrip **MySQL 8.0+** berstruktur per bagian (setup → pengecekan kualitas 
 |---|---|---|
 | [analisis_star_schema.sql](https://github.com/klarinkintany/Mining-Operations-Intelligence/blob/main/SQL/analisis_star_schema.sql) | mining_dwh | Star schema, KPI, dan analisis lintas domain |
 | [analisis_equipment.sql](https://github.com/klarinkintany/Mining-Operations-Intelligence/blob/main/SQL/analisis_equipment.sql) | equipment_analysis | Profil armada, OEE, breakdown, BBM, autonomous vs conventional, peringkat unit, analisis anomali |
-| [analisis_biaya_tambang.sql]([SQL/analisis_equipment.sql](https://github.com/klarinkintany/Mining-Operations-Intelligence/blob/main/SQL/analisis_biaya_tambang.sql))| Efisiensi biaya, biaya vs target, biaya tetap vs variabel, tren bulanan, evaluasi model prediksi |
+| [analisis_biaya_tambang.sql](https://github.com/klarinkintany/Mining-Operations-Intelligence/blob/main/SQL/analisis_biaya_tambang.sql)| Efisiensi biaya, biaya vs target, biaya tetap vs variabel, tren bulanan, evaluasi model prediksi |
 
 Teknik SQL yang dipakai: `CTE`, `window function`, agregasi bertingkat, `VIEW`, `PRIMARY/FOREIGN KEY`, dan pengecekan integritas relasi.
 
