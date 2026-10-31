@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Mining Operations Intelligence
 
 ### End-to-End Data Analytics, Machine Learning & Operational Performance Project
